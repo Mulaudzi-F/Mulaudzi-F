@@ -22,13 +22,13 @@ I'm a junior software developer passionate about web development and creating gr
 
 Here are a few projects I've worked on:
 
-- [Project 1](link): Brief description of the project.
-- [Project 2](link): Brief description of the project.
-- [Project 3](link): Brief description of the project.
+- [Book-Connect App](link): Brief description of the project.
+- [Digital Resume](link): Brief description of the project.
+- [MMG-Steel-Doctor website](link): Brief description of the project.
 
 ## 💬 Let's Connect
 
-- GitHub: [Your GitHub Profile](link)
+- GitHub:(https://github.com/Mulaudzi-F)
 - LinkedIn: (www.linkedin.com/in/fhatuwani-brighton-mulaudzi-a861791b8)
 
 
