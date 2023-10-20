@@ -32,13 +32,14 @@ Here are a few projects I've worked on:
   APIs, and any third-party integrations.
 
 - [Digital Resume](link):
-    -A web page resume built with HTML and CSS is a static webpage that displays my professional information,
-    including my name, contact details, work experience, education, skills, and achievements.
-    The page is designed using HTML for structuring content and CSS for styling, creating a clean and professional layout.
-     It typically includes sections for my introduction, work history, education, skills, and achievements,
-    and it may also feature a portfolio or project section.
-    This type of resume is simple to share with potential employers and can be accessed online via a unique URL.
-     It should be designed to be responsive and visually appealing on different devices.
+  
+    - A web page resume built with HTML and CSS is a static webpage that displays my professional information,
+      including my name, contact details, work experience, education, skills, and achievements.
+      The page is designed using HTML for structuring content and CSS for styling, creating a clean and professional layout.
+       It typically includes sections for my introduction, work history, education, skills, and achievements,
+      and it may also feature a portfolio or project section.
+      This type of resume is simple to share with potential employers and can be accessed online via a unique URL.
+       It should be designed to be responsive and visually appealing on different devices.
   
 - [MMG-Steel-Doctor website](link):
    - MMGSTEELDOCTOR Website: A Dynamic Hub for Boiler Repair, Geyser Installation, and Pipeline Solutions.
