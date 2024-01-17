@@ -22,7 +22,17 @@ I'm a junior software developer passionate about web development and creating gr
 
 Here are a few projects I've worked on:
 
-- [Book-Connect App](link):
+
+
+- [My Portfolio](https://fhatuwani-mulaudzi-website.netlify.app):
+  -I've crafted this portfolio using React.js and Tailwind CSS to showcase my skills, projects, and journey in the world of web development.
+   With a passion for clean and responsive design, I've embraced the power of React for a dynamic user experience and leveraged Tailwind CSS for efficient styling.
+  
+- [BaklistApp](https://fb-banklistapp.netlify.app):
+   - My simple and intuitive bank app created using HTML, CSS, and JavaScript.
+   -  This project reflects my passion for web development and showcases my skills in front-end technologies..
+
+- [Book-Connect App]([(https://fhatuwanimulaudzibookconnectapp.netlify.app)):
   - I worked ensuring a smooth and user-friendly experience by
   implementing responsive design, navigation, and interactive
   features.
@@ -31,22 +41,10 @@ Here are a few projects I've worked on:
   -Maintain clear and up-to-date documentation for the codebase,
   APIs, and any third-party integrations.
 
-- [Digital Resume](link):
-  
-    - A web page resume built with HTML and CSS is a static webpage that displays my professional information,
-      including my name, contact details, work experience, education, skills, and achievements.
-      The page is designed using HTML for structuring content and CSS for styling, creating a clean and professional layout.
-       It typically includes sections for my introduction, work history, education, skills, and achievements,
-      and it may also feature a portfolio or project section.
-      This type of resume is simple to share with potential employers and can be accessed online via a unique URL.
-       It should be designed to be responsive and visually appealing on different devices.
-  
-- [MMG-Steel-Doctor website](link):
-   - MMGSTEELDOCTOR Website: A Dynamic Hub for Boiler Repair, Geyser Installation, and Pipeline Solutions.
-     Explore our comprehensive services in boiler repair, geyser installation, and industrial pipeline solutions.
-     With our expert team and cutting-edge technology, we ensure top-notch services for various industries.
-     Discover a world of reliability and efficiency in steel solutions,
-    all presented in a user-friendly and responsive website built with HTML, CSS, and JavaScript.
+- [PodcastApp](https://soft-cactus-1173d6.netlify.app):
+  created a podcast app using React and Tailwind CSS.
+  This dynamic app allows users to seamlessly filter through their favorite playlists and conveniently save selected episodes to a personalized "Favorites" page.
+  Leveraging the power of React for front-end interactivity and Tailwind CSS for a sleek and responsive design, this project showcases my skills in building user-friendly and visually appealing web applications. 
   
 ## 💬 Let's Connect
 
