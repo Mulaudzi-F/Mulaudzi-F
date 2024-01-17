@@ -25,16 +25,17 @@ Here are a few projects I've worked on:
 
 
 - [My Portfolio](https://fhatuwani-mulaudzi-website.netlify.app):
-  -I've crafted this portfolio using React.js and Tailwind CSS to showcase my skills, projects, and journey in the world of web 
-     development.
-   With a passion for clean and responsive design, I've embraced the power of React for a dynamic user experience and leveraged Tailwind 
-   CSS for efficient styling.
+     -I've crafted this portfolio using React.js and Tailwind CSS to showcase my skills, projects, and journey in the world of web 
+      development.
+      With a passion for clean and responsive design, I've embraced the power of React for a dynamic user experience and leveraged 
+     Tailwind 
+      CSS for efficient styling.
   
 - [BaklistApp](https://fb-banklistapp.netlify.app):
    - My simple and intuitive bank app created using HTML, CSS, and JavaScript.
    -  This project reflects my passion for web development and showcases my skills in front-end technologies..
 
-- [Book Connect App]((https://fhatuwanimulaudzibookconnectapp.netlify.app)):
+- [Book Connect App](https://fhatuwanimulaudzibookconnectapp.netlify.app):
 
    - I worked ensuring a smooth and user-friendly experience by
   implementing responsive design, navigation, and interactive
@@ -45,9 +46,10 @@ Here are a few projects I've worked on:
   APIs, and any third-party integrations.
 
 - [PodcastApp](https://soft-cactus-1173d6.netlify.app):
-   -created a podcast app using React and Tailwind CSS.
-    This dynamic app allows users to seamlessly filter through their favorite playlists and conveniently save selected episodes to a 
-    personalized "Favorites" page.
+  
+     -created a podcast app using React and Tailwind CSS.
+      This dynamic app allows users to seamlessly filter through their favorite playlists and conveniently save selected episodes to a 
+      personalized "Favorites" page.
     Leveraging the power of React for front-end interactivity and Tailwind CSS for a sleek and responsive design, this project showcases 
     my skills in building user-friendly and visually appealing web applications. 
   
