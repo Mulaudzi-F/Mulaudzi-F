@@ -32,7 +32,7 @@ Here are a few projects I've worked on:
    - My simple and intuitive bank app created using HTML, CSS, and JavaScript.
    -  This project reflects my passion for web development and showcases my skills in front-end technologies..
 
-- [Book-Connect App]([(https://fhatuwanimulaudzibookconnectapp.netlify.app)):
+- [Book-Connect App]((https://fhatuwanimulaudzibookconnectapp.netlify.app)):
   - I worked ensuring a smooth and user-friendly experience by
   implementing responsive design, navigation, and interactive
   features.
