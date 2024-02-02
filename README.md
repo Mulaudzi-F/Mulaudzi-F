@@ -1,7 +1,7 @@
 
 # Hi there, I'm FHATUWANI MULAUDZI 👋
 
-I'm a junior software developer passionate about web development and creating great user experiences. I have experience with HTML, CSS, JavaScript, React.js, and npm. 
+I'm a junior software developer passionate about web development and creating great user experiences. I have experience with HTML, CSS, JavaScript, React.js, Node.js, express and MongoDB for database. 
 
 🌱 I'm currently learning and expanding my skills in Software Development.
 🤝 I'm open to collaboration on interesting web development projects.
@@ -10,6 +10,7 @@ I'm a junior software developer passionate about web development and creating gr
 ## 🚀 Skills
 
 - **Frontend Development**: HTML, CSS, JavaScript, React.js
+- **Backend Development**: Node.js, Express, MongoDB
 - **Package Management**: npm
 - **Version Control**: Git
 
