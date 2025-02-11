@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a junior software developer passionate about web development and creating great user experiences. I have experience with HTML, CSS, JavaScript, React.js, Node.js, express and MongoDB for database.<br><br>🌱 I'm currently learning and expanding my skills in Software Development. 🤝 I'm open to collaboration on interesting web development projects. 📫 You can reach me at mulaudzifhatuwanib20@gmail.com.</p>
+<p align="left">I'm a  software developer passionate about web development and creating great user experiences. I have experience with HTML, CSS, JavaScript, React.js, Node.js, express and MongoDB for database.<br><br>🌱 I'm currently learning and expanding my skills in Software Development. 🤝 I'm open to collaboration on interesting web development projects. 📫 You can reach me at mulaudzifhatuwanib20@gmail.com.</p>
 
 ###
 
