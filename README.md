@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">-Frontend Development: HTML, CSS, JavaScript, React.js<br>-Backend Development: Node.js, Express, MongoDB<br>-Package Management: npm<br>-Version Control: Git</h5>
+<h5 align="left">-Frontend Development: HTML, CSS, JavaScript,tailwindcss and React.js<br>-Backend Development: Node.js, Express, MongoDB<br>-Package Management: npm<br>-Version Control: Git<br>Testing: Jasmine</br><br>Tools: Postman</br></h5>
 
 ###
 
