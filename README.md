@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Brighton Mulaudzi, a passionate and driven software Engineer with a background in Chemistry and Biochemistry. I transitioned into tech after completing a Software Development Certificate from CodeSpace Academy and have since gained hands-on experience building full-stack applications. My core strengths lie in JavaScript and TypeScript, with a focus on frameworks like Angular, React, and Node.js.
+<p align="left">My name is Fhatuwani Brighton Mulaudzi, a passionate and driven software Engineer with a background in Chemistry and Biochemistry. I transitioned into tech after completing a Software Development Certificate from CodeSpace Academy and have since gained hands-on experience building full-stack applications. My core strengths lie in JavaScript and TypeScript, with a focus on frameworks like Angular, React, and Node.js.
 
 I’ve worked on web and mobile applications, integrating REST APIs, containerizing applications using Docker, and deploying them via AWS EC2. I'm also comfortable working with databases like MariaDB and MongoDB, and I enjoy using tools like Git, Bitbucket Pipelines, and Postman in my workflow.
 
