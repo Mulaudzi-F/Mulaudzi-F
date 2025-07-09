@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">I'm a  software developer passionate about web development and creating great user experiences. I have experience with HTML, CSS, JavaScript, React.js, Node.js, express and MongoDB for database.<br><br>🌱 I'm currently learning and expanding my skills in Software Development. 🤝 I'm open to collaboration on interesting web development projects. 📫 You can reach me at mulaudzifhatuwanib20@gmail.com.</p>
+<p align="left">My name is Brighton Mulaudzi, a passionate and driven software Engineer with a background in Chemistry and Biochemistry. I transitioned into tech after completing a Software Development Certificate from CodeSpace Academy and have since gained hands-on experience building full-stack applications. My core strengths lie in JavaScript and TypeScript, with a focus on frameworks like Angular, React, and Node.js.
+
+I’ve worked on web and mobile applications, integrating REST APIs, containerizing applications using Docker, and deploying them via AWS EC2. I'm also comfortable working with databases like MariaDB and MongoDB, and I enjoy using tools like Git, Bitbucket Pipelines, and Postman in my workflow.
+
+Beyond coding, I have a keen interest in cloud computing and cybersecurity, and I’m constantly upskilling to stay ahead in this ever-evolving field. I'm currently looking for opportunities where I can contribute to impactful projects, grow my technical abilities, and collaborate with a forward-thinking team..</p>
 
 ###
 
