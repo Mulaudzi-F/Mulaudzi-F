@@ -18,7 +18,7 @@ Beyond coding, I have a keen interest in cloud computing and cybersecurity, and 
 
 ###
 
-<h5 align="left">-Frontend Development: HTML, CSS, JavaScript,tailwindcss and React.js<br>-Backend Development: Node.js, Express, MongoDB, MySQl<br>DevOps: Docker, CI/CD, AWS<br>-Package Management: npm<br>-Version Control: Git<br>Testing: Jasmine</br><br>Tools: Postman</br></h5>
+<h5 align="left">-Frontend Development: HTML, CSS, JavaScript,tailwindcss, Angular v19+ and React.js<br>-Backend Development: Node.js, Express, MongoDB, MySQl<br>DevOps: Docker, CI/CD, AWS<br>-Package Management: npm<br>-Version Control: Git<br>Testing: Jasmine, Jest</br><br>Tools:Jira, Postman</br></h5>
 
 ###
 
